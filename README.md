@@ -1,2 +1,2 @@
 # CSharp-Advanced
-C# Advanced Module - SoftUni Problems
+C# Advanced Module - SoftUni Problem Solutions
